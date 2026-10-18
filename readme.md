@@ -7,11 +7,10 @@ If anything goes wrong, you can check the logs here:
 %TEMP%\ExtractZipAndDelete.log
 
 
-To install:
+# To install:
 Run InstallZipExtractAndDelete.bat
 
-
-To uninstall:
+# To uninstall:
 Run UninstallExtractZipAndDelete.bat
 
 [Or manually do:
